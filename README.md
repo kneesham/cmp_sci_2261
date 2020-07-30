@@ -2,9 +2,8 @@
 Java web programming final project.
 
 # Project description
-Your spaceships must be a new class that inherits from the "spaceship" class. Something to the extent of: 
-![Image of structure]
-(https://umsl.instructure.com/users/10753/files/1475250/preview?verifier=pf2WWIKsXOfGIdpqYgdtHWBceem2VB8oKAB4ijUm)
+Your spaceships must be a new class that inherits from the "spaceship" class. Something to the extent of:
+(https://umsl.instructure.com/users/10753/files/1475250/preview?verifier=pf2WWIKsXOfGIdpqYgdtHWBceem2VB8oKAB4ijUm) (Downloads a picture of hierachy.) 
 
 Your spaceship's constructor must randomize your ship health, max speed, and x and y position: 
 
