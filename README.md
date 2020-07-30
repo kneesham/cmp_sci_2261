@@ -37,6 +37,7 @@ In the below example, the Federation class has the option for diplomacy (which w
 # Example run
 Your program should have output something to the extent of: 
 
+```Java
 //starting program: 
 
 Welcome Captain! What kind of starship would you like to create: 
@@ -83,4 +84,4 @@ Captain of the Enterprise: How would you like to proceed?
 >> 2        
 
 // NOTE: In this example, the Enterprise's speed would have been randomly set to 2 by // its constructor
-
+```
